@@ -3,3 +3,4 @@ def hola_mundo():
 
 hola_mundo()
 1 = 1
+2 = 2
